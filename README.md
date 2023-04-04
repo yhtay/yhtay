@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=600&lines=I'm+a+Chemical+Engineer+turned+Software+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&width=600&lines=I'm+a+Chemical+Engineer+turned+Software+Developer!)](https://git.io/typing-svg)
 
 
 Starting off as a healthcare worker, then transitioned into a role in chemical engineering. But as the saying goes, "life is all about learning and growing," and what better way to grow than to hop into Software Development.
