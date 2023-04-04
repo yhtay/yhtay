@@ -32,7 +32,7 @@ When I'm not coding I enjoy
 
 ## 💬 Get in touch
 - LinkedIn: https://www.linkedin.com/in/williamhtay/
-- Wellfound / AngelList: https://wellfound.com/jason-greenberg-4
+- Wellfound / AngelList: 
 Thanks for visiting my profile! Feel free to reach out to me with any questions or just to chat.
 ## 📈 Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yhtay&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
