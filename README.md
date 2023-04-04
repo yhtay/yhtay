@@ -1,6 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=FFFFFF&width=1000&lines=Hi+I'm+Will!+A+former+Chemical+Engineer+turned+FullStack+Developer!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=FFFFFF&width=1000&lines=Hi+I'm+Will!+A+former+Chemical+Engineer+turned+FullStack+Dev!)](https://git.io/typing-svg)
 
-Starting off as a healthcare worker, then transitioned into a role in chemical engineering. But as the saying goes, "life is all about learning and growing," and realized my true passion lay in the rapidly-evolving tech industry.
+Starting off as a healthcare worker, then transitioned into a role in chemical engineering. But as the saying goes, "life is all about learning and growing," and realized my true passion in developing apps.
 
 ## 💻 Tech Stack
 Here are some of the technologies I have been working with:
@@ -24,11 +24,11 @@ Here are some of the technologies I have been working with:
 - AWS Cloud Services ☁️
 ## 🎉 Interests
 When I'm not coding I enjoy
-- Ultimate Frisbee 
+- Sports ⚽️ 🥏 🏀
 - Video Games 🎮
 - Movies 🎥
-- Good Food 🍛
-- Sports ⚽ \
+- Sushi 🍣
+
 ## 💬 Get in touch
 - LinkedIn: https://www.linkedin.com/in/jason-g-greenberg/
 - Wellfound / AngelList: https://wellfound.com/jason-greenberg-4
