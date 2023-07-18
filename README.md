@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&width=600&lines=I'm+a+Chemical+Engineer+turned+Software+Developer!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6E6E6&width=435&lines=Welcome+to+my+Journey+as+a+Software+Developer)](https://git.io/typing-svg)
 
 ## 💻 Tech Stack
 Here are some of the technologies I have been working with:
